@@ -13,3 +13,6 @@ Type of Normalization:-
 2. Mean Normalization
 3. Max Absulate
 4. Robust Scaling
+
+
+----Masum-----
