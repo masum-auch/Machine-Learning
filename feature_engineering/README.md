@@ -29,6 +29,6 @@ a crucial step for improving model performance and data quality. The following t
   8. Feature Scaling:-
       Scale numerical features using **standardization**, **normalization**, or other techniques to make data suitable for machine learning algorithms.
 
----
+----
 
 > This folder serves as a comprehensive guide for all feature engineering steps applied to datasets in this project.
