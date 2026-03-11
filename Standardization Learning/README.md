@@ -1,1 +1,1 @@
-Learning with Standardization.
+Learning with Standardization using Python.
